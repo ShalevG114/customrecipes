@@ -1,0 +1,6 @@
+name: CustomCraftrecipes
+version: 1.0
+main: me.shalev.customcraft.Main
+api-version: 1.17
+authors: [ shalev ]
+description: custom recipes
